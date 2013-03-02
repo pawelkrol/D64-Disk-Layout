@@ -1,0 +1,5 @@
+Revision history for Perl extension D64::Disk::Layout.
+
+0.01  2021-01-12
+    - initial version (provides miscellaneous procedures to access and modify
+      entire D64/D71/D81 disk image data)
