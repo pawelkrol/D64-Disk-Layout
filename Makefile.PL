@@ -7,7 +7,7 @@ WriteMakefile(
                             D64::Disk::Layout::Sector => 0.02,
                             File::Temp                => 0,
                             IO::Scalar                => 0,
-                            List::MoreUtils           => 0,
+                            List::MoreUtils           => 0.426,
                             Test::Deep                => 0,
                             Test::More                => 0,
                         },

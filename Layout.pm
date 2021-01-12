@@ -52,7 +52,7 @@ use strict;
 use utf8;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use base qw(D64::Disk::Layout::Base);
 use Carp qw(carp croak);
@@ -265,7 +265,7 @@ Pawel Krol, E<lt>pawelkrol@cpan.orgE<gt>.
 
 =head1 VERSION
 
-Version 0.01 (2021-01-12)
+Version 0.02 (2021-01-12)
 
 =head1 COPYRIGHT AND LICENSE
 
