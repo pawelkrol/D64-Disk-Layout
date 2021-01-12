@@ -3,7 +3,7 @@ WriteMakefile(
     NAME             => 'D64::Disk::Layout',
     VERSION_FROM     => 'Layout.pm',
     PREREQ_PM        => {
-                            D64::Disk::Layout::Base   => 0.02,
+                            D64::Disk::Layout::Base   => 0.03,
                             D64::Disk::Layout::Sector => 0.02,
                             File::Temp                => 0,
                             IO::Scalar                => 0,
