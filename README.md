@@ -1,12 +1,14 @@
 D64-Disk-Layout
 ===============
 
+[![CPAN version](https://badge.fury.io/pl/D64-Disk-Layout.png)](https://metacpan.org/pod/D64::Disk::Layout)
+
 `D64::Disk::Layout` provides a low-level helper class for `D64::Disk` module, enabling users to directly access and manipulate entire D64/D71/D81 disk image data in an object oriented way without the hassle of worrying about the meaning of individual bits and bytes located on every track and sector of a physical disk image. Handling entire Commodore (D64/D71/D81) disk image data has been implemented in pure Perl.
 
 VERSION
 -------
 
-Version 0.02 (2021-01-13)
+Version 0.03 (2021-01-17)
 
 INSTALLATION
 ------------
